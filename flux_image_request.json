@@ -1,0 +1,9 @@
+{
+  "model": "Qubico/flux1-schnell",
+  "task_type": "txt2img",
+  "input": {
+    "prompt": "a happy senior person actively engaging their mind with a vibrant, positive expression, digital art style, high detail",
+    "width": 1024,
+    "height": 1024
+  }
+}
